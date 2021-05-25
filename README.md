@@ -12,7 +12,7 @@ pull request를 연습하는 공간입니다. :slightly_smiling_face:
 ## 파일명 규칙 
 - 모든 파일명은 영문으로 작성합니다.
 - 띄어쓰기, '\_' 등은 사용하지 않습니다.
-- 파스칼 표기 법을 따라 작성합니다.
+- 카멜 표기법을 따라 작성합니다.
    - e.g. naverCrawler.ipynb, googlePreprocess.py 
 
 ## 커밋 메세지 규칙
