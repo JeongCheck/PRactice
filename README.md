@@ -7,7 +7,12 @@ pull request를 연습하는 공간입니다. :slightly_smiling_face:
 1. 작업할 repository를 내 github으로 fork한다.
 2. 로컬(내 컴퓨터, 터미널)에서 작업하고자 하는 작업공간(directory)에 들어간다.  
    ```$ cd 작업공간위치``` 
-3. 
+
+
+## 깃 사용 유의사항
+- ```git add .```, ```git add *``` : 사용금지
+- ```git add ./파일명``` 으로 사용합니다.
+
 
 ## 파일명 규칙 
 - 모든 파일명은 영문으로 작성합니다.
