@@ -1,5 +1,5 @@
 # PRactice
-Let's practice Pull Request ! 
+Let's practice Pull Request !    
 pull request를 연습하는 공간입니다. :slightly_smiling_face:
 
 
